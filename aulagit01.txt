@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Diego - 02101993
+=======
+git nunca mais
+>>>>>>> f9a8a3614b54909495df442949db31fcad8d03fe
